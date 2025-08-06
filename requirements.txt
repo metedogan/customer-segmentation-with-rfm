@@ -1,0 +1,15 @@
+# Core Libraries for Data Handling and Analysis
+pandas==2.2.2
+numpy==1.26.4
+
+# Libraries for Data Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+squarify==0.4.3
+
+# Library for Interactive Notebooks
+jupyterlab==4.2.1
+
+# For statistical modeling or machine learning
+scikit-learn==1.5.0
