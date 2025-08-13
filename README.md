@@ -49,7 +49,7 @@ To replicate this analysis, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/metedogan/customer-segmentation-with-rfm/)
 cd customer_segmentation_rfm
 ```
 
