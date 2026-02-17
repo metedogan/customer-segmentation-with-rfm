@@ -9,7 +9,7 @@ plotly==5.22.0
 squarify==0.4.3
 
 # Library for Interactive Notebooks
-jupyterlab==4.2.1
+jupyterlab==4.2.5
 
 # For statistical modeling or machine learning
 scikit-learn==1.5.0
